@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Z.Framwork.Core</id>
+    <version>1.0.0</version>
+    <title>Z.Framwork.Core</title>
+    <authors>zhangc.zc@outlook.com</authors>
+    <owners>zhangc.zc@outlook.com</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://avatars2.githubusercontent.com/u/7779248?s=200</iconUrl>
+    <description>核心组件库</description>
+    <copyright>Copyright © zhangc 2018</copyright>
+    <dependencies />
+  </metadata>
+</package>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Z.Framwork</id>
+    <version>1.0.0</version>
+    <title>Z.Framwork</title>
+    <authors>zhangc.zc@outlook.com</authors>
+    <owners>zhangc.zc@outlook.com</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://avatars2.githubusercontent.com/u/7779248?s=200</iconUrl>
+    <description>基础组件库</description>
+    <copyright>Copyright © zhangc 2018</copyright>
+    <dependencies>
+      <dependency id="Microsoft.AspNet.Mvc" version="5.2.6" />
+      <dependency id="Newtonsoft.Json" version="11.0.2" />
+    </dependencies>
+  </metadata>
+</package>
